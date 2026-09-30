@@ -7,3 +7,4 @@ DineFlow is a QR-based restaurant table ordering system that allows customers to
 - QR-based Table Ordering
 - Digital Menu
 - Search & Filters
+- Cart Management
