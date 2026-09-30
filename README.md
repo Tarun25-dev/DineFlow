@@ -15,3 +15,4 @@ DineFlow is a QR-based restaurant table ordering system that allows customers to
 ### Technologies Used:
 - Front-end: Reactjs, TypeScript, & TailwindCSS
 - Icons & UI: lucide-react
+- Tools: VS Code, Git, & Github
